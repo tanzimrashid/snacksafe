@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Houston Meyer",
+        "allergens": [
+            "Nuts",
+            "Milk"
+        ],
+        "history": []
+    },
+    {
+        "name": "Tanzim Rashid",
+        "allergens": [
+            "Cereals Containing Gluten",
+            "Peanuts"
+        ],
+        "history": []
+    }
+]
