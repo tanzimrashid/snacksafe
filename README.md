@@ -20,6 +20,6 @@ SnackSafe requires the following Python libraries to run:
 - [NiceGUI](https://github.com/zauberzeug/nicegui)
 - [nicegui-scanner](https://github.com/serraict/nicegui-scanner-app)
 
-NiceGui converts Python into browser-compatible front-end code, enabling seamless integration of peripherals like cameras for barcode scanning.
+NiceGUI converts Python into browser-compatible front-end code, enabling seamless integration of peripherals like cameras for barcode scanning.
 
 Web browsers require secure context before they will expose the camera. To ensure proper functionality, serve SnackSafe over HTTPS (even on a local network) or use `localhost` during development.
