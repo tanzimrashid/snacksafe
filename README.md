@@ -6,7 +6,7 @@
 SnackSafe is a mobile-first, web-based barcode scanning app that is designed to identify potential allergens in packaged food products to keep users and their loved ones safe.
 It relies on data collected from [Open Food Facts](https://openfoodfacts.org), a global database containing information on 4.5 million packaged food products.
 
-Besides allergy monitoring and alerts, SnackSafe also offers insights on [NOVA Levels](https://world.openfoodfacts.org/nova) to highlight the degree of food processing, as well as the [Nutri-Score](https://world.openfoodfacts.org/nutriscore) to show the overall nutritional quality of food products in an easy-to-understand format.
+Besides allergy monitoring and alerts, SnackSafe also offers insights on [NOVA Levels](https://world.openfoodfacts.org/nova) to highlight the degree of food processing, as well as the [Nutri-Score](https://world.openfoodfacts.org/nutriscore) to show the nutritional quality of food products in an easy-to-understand format.
 
 Our goal was to develop a mobile-first, web-based solution that is easy to deploy and platform-agnostic. 
 
@@ -16,7 +16,7 @@ Our goal was to develop a mobile-first, web-based solution that is easy to deplo
 - Decypher labels for nutritional quality
 
 ## Dependencies
-SnackSafe depends on the following Python libraries to run:
+SnackSafe requires the following Python libraries to run:
 - [NiceGUI](https://github.com/zauberzeug/nicegui)
 - [nicegui-scanner](https://github.com/serraict/nicegui-scanner-app)
 
